@@ -1,0 +1,70 @@
+/* Sets the background color for the webpage and the font used. */
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f7f7f7;
+}
+
+/* Applies the styling for both the header and the section class. */
+header, .section {
+  text-align: center;
+  padding: 5px;
+}
+
+/* Applies the styling for the header. */
+header {
+  background-color: #0051ff;
+  color: #fff;
+  margin-bottom: 20px;
+  margin-top: 20px; 
+}
+
+/* Main content container class's margin is set. */
+.main-container {
+  margin-bottom: 20px;
+}
+
+/* Applies the styling for the h2 elements in within the section class */
+.section h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #0051ff;
+}
+
+/* Applies the formatting for the images in the section class */
+.section img {
+  max-width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+}
+
+/* Styling which applies to the schoolMap ID. */
+#schoolMap {
+  width: 80%; 
+  height: 800px; 
+  margin: 0 auto; 
+}
+
+
+.legend {
+  color: #555;
+  padding: 6px 8px;
+  background: white;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.9;
+}
+
+/* Styling which applies to the nyc-demographics-scatter ID. */
+#nyc-demographics-scatter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 80%; /* Adjust this value to your preferred width */
+  margin: 0 auto; /* Center horizontally using margin */
+  height: 100%;
+}

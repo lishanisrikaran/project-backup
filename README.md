@@ -16,8 +16,8 @@
 4) Type <python -m venv .venv.>
 
 4) Open up a new Anaconda Prompt terminal, cd into the directory which contains the file 'app_solution' and type the folowing:
-<li><.venv\Scripts\activate></li>
-<li><flask --app app_solution run></li>
+<li>.venv\Scripts\activate</li>
+<li>flask --app app_solution run</li>
 
 5) Copy and paste the server link into your browser and you will then be shown each route of every raw data set used in this project. 
 

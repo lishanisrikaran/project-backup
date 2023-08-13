@@ -5,9 +5,9 @@
 <b>The datasets used are available in geojson and json format, to access please follow the below steps:</b>
 
 1) If not already installed, open up your git bash terminal and type the following -<br>
-<li><pip install flask></pip></li>
-<li><pip install requests></li>
-<li><pip install jsonify></li>
+<li><pip install flask></li>
+<li>"pip install requests"</li>
+<li>"pip install jsonify"</li>
 
 2) Navigate to the file path where you want to clone this project's repository in git bash. Once done, type <git clone https://github.com/lishanisrikaran/project-3.git>.
 

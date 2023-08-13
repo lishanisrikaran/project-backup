@@ -5,9 +5,9 @@
 <b>The datasets used are available in geojson and json format, to access please follow the below steps:</b>
 
 1) If not already installed, open up your git bash terminal and type the following -<br>
-	<pip install flask><br>
-	<pip install requests><br>
-	<pip install jsonify><br>
+<li><pip install flask></pip></li>
+<li><pip install requests></li>
+<li><pip install jsonify></li>
 
 2) Navigate to the file path where you want to clone this project's repository in git bash. Once done, type <git clone https://github.com/lishanisrikaran/project-3.git>.
 
@@ -16,8 +16,8 @@
 4) Type <python -m venv .venv.>
 
 4) Open up a new Anaconda Prompt terminal, cd into the directory which contains the file 'app_solution' and type the folowing:
-	<.venv\Scripts\activate>
-	<flask --app app_solution run>
+<li><.venv\Scripts\activate></li>
+<li><flask --app app_solution run></li>
 
 5) Copy and paste the server link into your browser and you will then be shown each route of every raw data set used in this project. 
 

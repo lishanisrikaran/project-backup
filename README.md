@@ -1,9 +1,8 @@
 # project-3
 
-![image](https://github.com/lishanisrikaran/project-backup/assets/126973634/3c64b36c-ad38-4cea-a856-640677d10d2c)
+![image](https://github.com/lishanisrikaran/project-backup/assets/126973634/7c05ebf7-4915-4fc2-847a-ddd7714f3514)
 
-
-The datasets used are available in geojson and json format, to access please follow the below steps:
+<b>The datasets used are available in geojson and json format, to access please follow the below steps:</b>
 
 1) If not already installed, open up your git bash terminal and type the following -
 	<pip install flask>
@@ -23,7 +22,7 @@ The datasets used are available in geojson and json format, to access please fol
 5) Copy and paste the server link into your browser and you will then be shown each route of every raw data set used in this project. 
 
 
-Due to cross-origin resource sharing restrictions, to gain visability of all visualisations within the index.html file, you will need to open this from within a python HTTP server, instructions below:
+<b>Due to cross-origin resource sharing restrictions, to gain visability of all visualisations within the index.html file, you will need to open this from within a python HTTP server, instructions below:</b>
 
 1) Navigate into the 'project-3' directory in your terminal. 
 

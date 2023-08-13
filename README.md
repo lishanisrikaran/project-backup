@@ -1,6 +1,7 @@
 # project-3
 
-![Uploading image.png…]()
+![image](https://github.com/lishanisrikaran/project-backup/assets/126973634/3c64b36c-ad38-4cea-a856-640677d10d2c)
+
 
 The datasets used are available in geojson and json format, to access please follow the below steps:
 

@@ -19,6 +19,7 @@
 <li>.venv\Scripts\activate</li>
 <li>flask --app app_solution run</li>
 
+
 5) Copy and paste the server link into your browser and you will then be shown each route of every raw data set used in this project. 
 
 
